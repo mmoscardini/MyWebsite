@@ -29,7 +29,7 @@ $message
 mail($myemail, $subject, $message);
 
 /* Redirect visitor to the thank you page */
-header('Location: inte.html');
+header('Location: Thanks.html');
 exit();
 
 /* Functions we used */
