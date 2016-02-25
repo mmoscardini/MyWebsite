@@ -90,7 +90,8 @@ html, body {
 	vertical-align: middle;
 	overflow: hidden;
 	float:left;
-    margin: 3% 0% 3% 9%;
+    margin-left: 10%;
+    margin-top: 20px;
 	
     border: 7px solid #5bb368;
 	border-radius: 50%;
@@ -141,7 +142,7 @@ html, body {
 .grid li {
 	width: 280px;
 	height:280px;
-	margin:20px;
+	margin: 20px;
 	
 	
 	display: block;
